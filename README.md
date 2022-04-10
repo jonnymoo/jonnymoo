@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+For more info see [www.jonnymuir.com](https://www.jonnymuir.com)
+
 <!--
 **jonnymoo/jonnymoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
